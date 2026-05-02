@@ -70,6 +70,8 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[DataGPT](https://datagpt.com/)</summary>The First Conversational AI Data Analyst. Ask DataGPT any question and get analyst-grade answers in seconds.</details> | | | | | | ✅ | | | |
 
 
+| <details><summary>[AI for Database](https://aifordatabase.com/)</summary>Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.</details> | ✅ | | | | ✅ | ✅ | | | | self build |
+
 Honourable Mentions of established tools that integrate AI and Natural Language Interfaces:
 - [AWS Quicksight](https://aws.amazon.com/quicksight/) with [Natural Language Demo ](https://www.youtube.com/watch?v=0IBAS2GiWwo)
 - [PowerBI with QnA](https://powerbi.microsoft.com/fr-ca/blog/ask-your-data-questions-with-q-amp-a/)
